@@ -1,0 +1,10 @@
+{
+    "name": "dayploy/phpunit-assertions",
+    "description": "Generate filters for queryBuilder in a repository",
+    "autoload": {
+        "psr-4": { "Dayploy\\PhpunitAssertions\\": "src" }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
