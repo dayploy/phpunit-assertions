@@ -1,5 +1,6 @@
 {
     "name": "dayploy/phpunit-assertions",
+    "license": "MIT",
     "description": "Generate filters for queryBuilder in a repository",
     "autoload": {
         "psr-4": { "Dayploy\\PhpunitAssertions\\": "src" }
